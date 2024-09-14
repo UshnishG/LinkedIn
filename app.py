@@ -1,5 +1,6 @@
 import streamlit as st
-import fitz  
+import fitz 
+import PyMuPdf
 import openai
 import os
 
