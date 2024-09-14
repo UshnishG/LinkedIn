@@ -66,4 +66,4 @@ This application allows users to upload their LinkedIn PDF resume and convert it
 
 ## Contact
 
-For any questions or issues, please reach out to [your-email@example.com](mailto:your-ghosalushnish@gmail.com).
+For any questions or issues, please reach out to (mailto:your-ghosalushnish@gmail.com).
